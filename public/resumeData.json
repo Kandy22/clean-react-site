@@ -1,184 +1,194 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Aaron Ray",
+     "description": "My passion is the never-ending quest for knowledge and learning. As well as     	                     	helping others on their own paths. I've been around, ya know...",
+     "image": "profilepic.jpg",
+     "bio": "I have been in the entertainment, media and technology business all my life. As a top manager, I've represented the biggest and most celebrated stars of all time, while using that information to build new businesses, produce content, start distribution companies and raising financing. They have finally become one and I'm ready to take it to the Metaverse."
+     "contactmessage": "If you're looking for me, here's the dope.",
+     "email": "aray@customcollider.com",                        				",
+     "phone": "555-555-5555",
+     "github": "https://github.com/",
+     "project": "https://github.com/",
+     "address": {
+       "street": "(8033 W. Sunset Blvd., Ste 1070)",
+       "city": "(Los Angeles)",
+       "state": "(CA)"
+       "zip": "(90046)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
+    "website": "https://github.com/",
+     "resumedownload": "https://github.com/",
+     "social": [
+       {
+         "name": "facebook",
+         "url": "https://github.com/",
+          "className": "fa fa-facebook"
+        },
+        {
+         "name": "twitter",
+         "url": "http://twitter.com/@redbaron1200s",
+         "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/",
+          "className": "fa fa-linkedin"
+        },
+        {
+           "name": "instagram",
+           "url": "http://instagram.com/",
+           "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/",
+          "className": "fa fa-github"
+
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+          {
+            "school": "University of Florida", 1994,
+            "degree": "Political Science",
+            "honors": "Most Outstanding Male Graduate, University of Florida Hall of Fame, Producer Gator Growl, 5x Presidential Leadership Award, Florida Blue Key",
+            "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+         },
+         {
+           "school": "Hogwarts School of Witchcraft and Wizardry",
+            "degree": "Gryffindor House",
+            "graduated": "March 2003",
+            "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+        }
+      ],
+      "work": [
+        {
+          "company": "Gallin-Morey Mangagment",
+          "title": "Training Program/Assistant",
+          "years": "1995-1996",
+          "description": "Trained under legendary manager Sandy Gallin in management, dealmaking, royalties and script development for crossover clients."
+	"skills": "Management, Production, Music, TV, Film, Tours, Merchan
+          },
+          {
+            "company": "Lynda Obst Productions",
+            "title": "Director of Development",
+            "years": "1996-1997",
+            "description": "Worked to identify, acquire, develop and produce major studio feature films. Handled hiring and reassignment of writers, scripts, books and underlying rights, as well as original stories. ran auctions and several productions."
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "company": "The Firm Management",
+        "title": "Manager, Producer, Senior VP",
+        "years": "1997-2001",
+        "description": " development for crossover clients."
+        "skills": "Management, Production, Music, TV, Film, Tours, Merchan
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "company": "Nine Yards Entertainment",
+        "title": "Founder, Partner",
+        "years": "2001-2005",
+        "description": " development for crossover clients."
+	"skills": "Management, Production, Music, TV, Film, Tours, Merchan
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "company": "The Collective",
+        "title": "Co-Founder, Partner",
+        "years": "2005-2014",
+        "description": " for crossover clients.",
+        "clients": "Martin Lawrence, Linkin Park",
+	"skills": "Management, Production, Music, TV, Film, Tours, Merchan
+       },
+       {
+        "company": "Custom Collider",
+         "title": "Founder",
+         "years": "2016-CURRENT",
+         "description": "development for crossover clients.",
+	"skills": "Management, Production, Music, TV, Film, Tours, Merchan
+        },
+      ],
+      "skills": [
+        {
+           "name": "Regulatory Compliance",
+           "level": "60%"
+        },
+        {
+           "name": "Public Health",
+           "level": "55%"
+        },
+        {
+           "name": "Intellectual Property",
+           "level": "50%"
+        },
+        {
+           "name": "Data Science",
+           "level": "90%"
+        },
+        {
+           "name": "Privacy and Security",
+           "level": "80%"
+        }
+      ]
+    },
+    "technical_skills": [
+        {
+           "name": "Programming",
+           "skills": "60%"
+        },
+        {
+           "name": "Artificial Intelligence",
+           "skills": "55%"
+        },
+        {
+           "name": "DataViz",
+           "skills": "Tableu"
+        },
+        {
+           "name": "CSS",
+           "level": "90%"
+        },
+        {
+           "name": "JAVA",
+           "level": "80%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Facial Recognition Tracking and Defeat",
+          "category": "Privacy, Identity, Surveillance, Raspberry Pi",
+          "image": "project1.jpg",
+          "url": "https://www.google.com"
+        },
+        {
+         "title": "Warshipping Redteam Project",
+          "category": "OSINT, Target",
+          "image": "project2.jpg",
+          "url": "https://www.google.com"
+        },
+        {
+          "title": "Laser Tripwire Light to Sound Project",
+          "category": "IoT, Soundwaves.",
+          "image": "project3.jpg",
+          "url": "https://www.google.com"
+       },
+       {
+          "title": "DataViz History Project",
+          "category": "Slides, Data.",
+          "image": "project4.jpg",
+          "url": "https://www.google.com"
+       }
+     ]
+   },
+ "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
-      }
-    ]
-  },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
-      {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      }
-    ],
-    "work":[
-      {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
-    ],
-    "skills":[
-      {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
